@@ -54,15 +54,15 @@ $(document).ready(function() {
      });
 
 
-    // $(".click2").click(function () {
-    // $("#details2-Showing").show();
-    // $("#details2-Hidden");
-    // });
+    $(".click2").click(function () {
+    $("#details2-Showing").show();
+    $("#details2-Hidden");
+    });
 
-    // $(".click3").click(function () {
-    // $("#details3-Showing").show();
-    // $("#details3-Hidden");
-    // });
+    $(".click3").click(function () {
+    $("#details3-Showing").show();
+    $("#details3-Hidden");
+    });
 
 
     // $(".click4").click(function () {

@@ -27,7 +27,7 @@
     display: none;
     padding-right: 20px;
 }
-/* #details-Showing{
+  #details-Showing{
     display: none;
     color:rgb(132, 50, 22);
     font-weight: 500;
@@ -41,8 +41,8 @@
     display: none;
     color:rgb(132, 50, 22);
     font-weight: 500;
-}
-#details4-Showing{
+} 
+/* #details4-Showing{
     display: none;
     color:rgb(132, 50, 22);
     font-weight: 500;
@@ -51,7 +51,7 @@
     display: none;
     color:rgb(132, 50, 22);
     font-weight: 500;
-} */
+}  */
 /* .click{
    text-decoration: underline;
    
