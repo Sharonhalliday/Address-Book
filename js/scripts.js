@@ -48,10 +48,10 @@ $(document).ready(function() {
 
        $("#contact-Book").show();
 });
-    // $(".click").click(function () {
-    // $("#details-Showing").show();
-    // $("#details-Hidden");
-    // });
+     $(".click").click(function () {
+     $("#details-Showing").show();
+     $("#details-Hidden");
+     });
 
 
     // $(".click2").click(function () {
