@@ -1,0 +1,110 @@
+#formOne{
+    padding-left: 10px;
+    background-color: peru;
+    width: 400px;
+}
+.name{
+    font-weight:bolder;
+   color:rgb(132, 50, 22);
+}
+.name2{
+    font-weight: bolder;
+   color:rgb(132, 50, 22);
+}
+.name3{
+    font-weight: bolder;
+    color:rgb(132, 50, 22);
+}
+.name4{
+    font-weight: bolder;
+    color:rgb(132, 50, 22);
+}
+.name5{
+    font-weight: bolder;
+    color:rgb(132, 50, 22);
+}
+#contact-Book{
+    display: none;
+    padding-right: 20px;
+}
+/* #details-Showing{
+    display: none;
+    color:rgb(132, 50, 22);
+    font-weight: 500;
+}
+#details2-Showing{
+    display: none;
+    color:rgb(132, 50, 22);
+    font-weight: 500;
+}
+#details3-Showing{
+    display: none;
+    color:rgb(132, 50, 22);
+    font-weight: 500;
+}
+#details4-Showing{
+    display: none;
+    color:rgb(132, 50, 22);
+    font-weight: 500;
+}
+#details5-Showing{
+    display: none;
+    color:rgb(132, 50, 22);
+    font-weight: 500;
+} */
+/* .click{
+   text-decoration: underline;
+   
+   
+}
+.click2{
+    text-decoration: underline;
+    
+}
+.click3{
+    text-decoration: underline;
+    
+}
+.click4{
+    text-decoration: underline;
+    
+}
+.click5{
+    text-decoration: underline;
+    
+}
+.card{
+    width: 400px;
+    background-color: khaki;
+     */
+
+/* }
+.name{
+    font-weight:bolder;
+   color:rgb(132, 50, 22);
+}
+.name2{
+    font-weight: bolder;
+   color:rgb(132, 50, 22);
+}
+.name3{
+    font-weight: bolder;
+    color:rgb(132, 50, 22);
+}
+.name4{
+    font-weight: bolder;
+    color:rgb(132, 50, 22);
+}
+.name5{
+    font-weight: bolder;
+    color:rgb(132, 50, 22);
+}
+.edit{
+    color:white;
+}
+#display{
+    display: flex;
+}
+#edit2{
+    padding-left: 50px;
+} */
