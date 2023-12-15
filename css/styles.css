@@ -69,10 +69,10 @@
     text-decoration: underline;
     
 }
-/* .click5{
+ .click5{
     text-decoration: underline;
     
-} */
+} 
 .card{
     width: 400px;
     background-color: khaki;
@@ -95,7 +95,7 @@
     font-weight: bolder;
     color:rgb(132, 50, 22);
 }
-/* .name5{
+.name5{
     font-weight: bolder;
     color:rgb(132, 50, 22);
 }
@@ -107,4 +107,4 @@
 }
 #edit2{
     padding-left: 50px;
-} */
+}

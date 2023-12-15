@@ -65,14 +65,14 @@ $(document).ready(function() {
     });
 
 
-    // $(".click4").click(function () {
-    // $("#details4-Showing").show();
-    // $("#details4-Hidden");
-    // });
+    $(".click4").click(function () {
+    $("#details4-Showing").show();
+    $("#details4-Hidden");
+    });
 
 
-    // $(".click5").click(function () {
-    // $("#details5-Showing").show();
-    // $("#details5-Hidden");
-    // });
+    $(".click5").click(function () {
+    $("#details5-Showing").show();
+    $("#details5-Hidden");
+    });
 });
