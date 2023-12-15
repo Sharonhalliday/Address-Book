@@ -42,17 +42,17 @@
     color:rgb(132, 50, 22);
     font-weight: 500;
 } 
-/* #details4-Showing{
+ #details4-Showing{
     display: none;
     color:rgb(132, 50, 22);
     font-weight: 500;
 }
-#details5-Showing{
+/* #details5-Showing{
     display: none;
     color:rgb(132, 50, 22);
     font-weight: 500;
-}  */
-/* .click{
+}   */
+ .click{
    text-decoration: underline;
    
    
@@ -69,16 +69,16 @@
     text-decoration: underline;
     
 }
-.click5{
+/* .click5{
     text-decoration: underline;
     
-}
+} */
 .card{
     width: 400px;
     background-color: khaki;
-     */
+     
 
-/* }
+}
 .name{
     font-weight:bolder;
    color:rgb(132, 50, 22);
@@ -95,7 +95,7 @@
     font-weight: bolder;
     color:rgb(132, 50, 22);
 }
-.name5{
+/* .name5{
     font-weight: bolder;
     color:rgb(132, 50, 22);
 }
